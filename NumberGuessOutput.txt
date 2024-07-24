@@ -1,0 +1,52 @@
+OUTPUT-1
+
+Enter Lower bound:- 1
+Enter Upper bound:- 100
+
+	You've only  7  chances to guess the integer!
+
+Guess a number:- 50
+You Guessed too high!
+Guess a number:- 75
+You Guessed too high!
+Guess a number:- 62
+You Guessed too high!
+Guess a number:- 56
+You Guessed too high!
+Guess a number:- 53
+You Guessed too high!
+Guess a number:- 54
+You Guessed too high!
+Guess a number:- 10
+Congratulations you did it in  7  try
+
+OUTPUT-2
+
+Enter Lower bound:- 0
+Enter Upper bound:- 1000
+
+	You've only  10  chances to guess the integer!
+
+Guess a number:- 46
+You guessed too small!
+Guess a number:- 479
+You guessed too small!
+Guess a number:- 2354
+You Guessed too high!
+Guess a number:- 974
+You Guessed too high!
+Guess a number:- 244
+You guessed too small!
+Guess a number:- 2446
+You Guessed too high!
+Guess a number:- 45
+You guessed too small!
+Guess a number:- 3
+You guessed too small!
+Guess a number:- 464
+You guessed too small!
+Guess a number:- 3
+You guessed too small!
+
+The number is 871
+	Better Luck Next time!
